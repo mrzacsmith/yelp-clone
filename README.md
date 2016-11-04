@@ -13,3 +13,7 @@
 + create the index action in the conrtoller, then create folder matching controller in app > views > index.html.erb
 + add bootstrap files if needed, used [Realto](https://drive.google.com/file/d/0B1J9wSBb0ZOqUTVoMXZSUG1xN3M/view?usp=sharing)
 + [fix font-awesome if needed](http://stackoverflow.com/questions/11052398/rails-using-font-awesome) 
++ Clean up the code
++ create partials to reduce web page length and follow DRY using _name.html.erb
++ create new model 'Pages', and create for about_us and contact_us
++ install devise gem
